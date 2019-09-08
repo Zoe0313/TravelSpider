@@ -23,4 +23,6 @@
 ### 将爬取的数据排行绘制出来
 > plt绘图
 > * 柱状图: 去哪儿5月国内最受欢迎十大景区.png
+<img src="https://raw.githubusercontent.com/Zoe0313/TravelSpider/master/去哪儿5月国内最受欢迎十大景区.png" width="80%">
 > * 饼图: 去哪儿热点景区门票价格对比饼图.png
+<img src="https://raw.githubusercontent.com/Zoe0313/TravelSpider/master/去哪儿热点景区门票价格对比饼图.png" width="80%">
